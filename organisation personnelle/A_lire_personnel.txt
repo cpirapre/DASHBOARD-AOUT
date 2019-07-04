@@ -1,0 +1,4 @@
+checklist de choses à faire:
+
+1. analyse_phase1 n'est pas définitif. Il faut faire une révision
+
