@@ -1,8 +1,0 @@
-03 Juillet
-diagramme de Gantt 1H
-révision Git 1H
-revoir la théorie du cours 2,5H
-réessayer en vain de reprendre l'accès de l'ancien repository 2H
-
-
-
