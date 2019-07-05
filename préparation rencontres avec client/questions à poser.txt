@@ -1,8 +1,4 @@
-Comment utiliser protobuf dans java?
-Comment je peux accéder à l'ensemble des logs?
-Quels sont les horaires pour qu'on se voit?
-
-Est-ce qu'il y a une base de données où les données de protobuff sont stockées?
-Quelle est la structure de cette base de données?
-
-Lorsque l'admin Ernest modifie des questions, est-ce que ça en fait une nouvelle version?
+Que se passe-t-il lorsqu'une personne revient en arrière sur une question, répond
+différemment et reçoit des nouvelles questions?
+Est-ce qu'on garde les logs des questions annulées?
+Je pense que oui
