@@ -2,4 +2,7 @@ Comment utiliser protobuf dans java?
 Comment je peux accéder à l'ensemble des logs?
 Quels sont les horaires pour qu'on se voit?
 
+Est-ce qu'il y a une base de données où les données de protobuff sont stockées?
+Quelle est la structure de cette base de données?
+
 
