@@ -18,5 +18,6 @@ du lendemain, il faut que je me lève à 7H pour travailler jusque 19H.
 fine tuning de l'analyse: 2H30
 visite de l'équipe: 0H30
 regarder comment fonctionne REST, protobuf, JSON: 3H
+relire des slides de méthodologie de bases de données: 1H
 
 
