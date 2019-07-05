@@ -1,4 +1,5 @@
 checklist de choses à faire:
 
 1. analyse_phase1 n'est pas définitif. Il faut faire une révision
+2. où est-ce que je suis censé voir l'heure des logs?
 
