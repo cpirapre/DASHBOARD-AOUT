@@ -1,0 +1,44 @@
+Steps to fill the database from data in the REST API :
+
+1. Fill the client table with the client found in the API
+2, For each client in the client database, find the associated configurators in the API and fill the configurator table.
+3. For each configurator in the database, find the associated session in the API and fill the session table.
+4. For each session in the database, find the question associated in the API and fill the QuestionAsked table.
+5. For each question asked recorded in the database, find the actions associated in the API and fill the action table.
+
+
+Now, one thing is that the database must be up to date so that the computed statistics are up to date as well.
+
+One possibility would be to recompute the five steps above but that is not very scalable and efficient.
+
+In order to get an up-to-date database, we are going to do the following steps :
+
+1. First, look in the action table and find the time T of the most current action recorded.
+2.Look in the API if there is any new client.
+3. For each client in the database, find if there is some new configurators associated with the clients stored in the database. If possible, filter based on the fact that we need client coming after time T.
+4. Find the configurator created after time T in the API and fill the configurator table by these new information.
+5. Find the sessions happening after time T in the API and add them in the database.
+6. For the newly registered sessions, fill the QuestionAsked table then the Action table.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Est-ce qu’on connaît la date (et l’heure précise) de l’inscription d’un client ?
+Est-ce qu’on connaît la date et l’heure précise de la création d’un nouveau configurateur ?
+
+En anglais, comment dire qu’on veut filtrer sur base de la date ?
+
+
+

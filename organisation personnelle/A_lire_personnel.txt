@@ -1,4 +1,9 @@
 checklist de choses à faire:
 
 1. Faire le schéma conceptuel
+2. Quand il y a des nouveaux logs, il faut pouvoir les entrer dans la base de données
+de manière efficace.
+3. Il faut une relation de QuestionAsked à QuestionAsked pour dire quelle question suit
+laquelle
+
 
