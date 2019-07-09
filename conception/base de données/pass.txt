@@ -1,0 +1,9 @@
+Ernest123
+port 5432
+
+pour accéder au serveur:
+
+Hostname: localhost
+Port: 5432
+username: postgres
+password: Ernest123

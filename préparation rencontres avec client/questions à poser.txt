@@ -1,4 +1,20 @@
 Que se passe-t-il lorsqu'une personne revient en arrière sur une question, répond
 différemment et reçoit des nouvelles questions?
 Est-ce qu'on garde les logs des questions annulées?
-Je pense que oui
+
+Vérifier les données de la bd liées au temps.
+
+Est-ce qu’on connaît la date (et l’heure précise) de l’inscription d’un client ?
+Est-ce qu’on connaît la date et l’heure précise de la création d’un nouveau configurateur ?
+Quel SGBD dois-je utiliser ?
+
+En anglais, comment dire qu’on veut filtrer sur base de la date ?
+
+Est-ce que le login et le mot de passe envoyé par mail est ce qui permet d’accéder à l’API à partir de Java ?
+
+ProductsComputed est généré à la fin de chaque question ? Peut-on savoir à la fin de quelle question ?
+
+
+
+
+ConfiguratorCreated
