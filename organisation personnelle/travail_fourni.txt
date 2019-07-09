@@ -37,3 +37,11 @@ J'ai acheté un chargeur en plus pour travailler le week-end isolé et je me suis
 renseigné pour travailler avec la 4G.
 
 Une bonne journée pour me redonner de la motivation.
+
+09 Juillet
+
+préparation de la rencontre/ conception bdd 2H30
+rencontre client 0H30
+télécharger postres, apprendre à utiliser prosgres et début de création de
+la base de données avec postgres 3H
+

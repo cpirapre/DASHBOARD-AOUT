@@ -5,5 +5,10 @@ checklist de choses à faire:
 de manière efficace.
 3. Il faut une relation de QuestionAsked à QuestionAsked pour dire quelle question suit
 laquelle
+4. Il faut le code de la base de données
+5. Il faut faire le diagramme des appels de fonctions
+
+
+
 
 
