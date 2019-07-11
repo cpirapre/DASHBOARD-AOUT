@@ -45,3 +45,6 @@ rencontre client 0H30
 télécharger postres, apprendre à utiliser prosgres et début de création de
 la base de données avec postgres 3H
 
+10 Juillet
+
+Apprendre à utiliser la base de données avec Java 5H
