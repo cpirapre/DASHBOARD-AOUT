@@ -48,3 +48,7 @@ la base de données avec postgres 3H
 10 Juillet
 
 Apprendre à utiliser la base de données avec Java 5H
+
+15 Juillet
+
+Expérimentations sqlite 5H
