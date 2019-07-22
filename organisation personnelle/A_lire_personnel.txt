@@ -12,3 +12,7 @@ laquelle
 
 
 
+commande pour créer un environnement maven:
+mvn archetype:generate -DarchetypeArtifactId=maven-archetype-quickstart -DarchetypeVersion=1.1
+compilation: mvn package
+pour lancer l'application: java -cp target/ernest_stat-1.0.SNAPSHOT.jar
